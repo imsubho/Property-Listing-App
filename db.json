@@ -1,0 +1,23 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "ptitle": "Subha Properties",
+      "pprice": "98522.0",
+      "plocation": "Kolkata",
+      "pdetails": "Plot available for 3BHK"
+    }
+  ],
+  "signup": [
+    {
+      "id": 1,
+      "name": "Subhadeep",
+      "email": "subhadeep@gmail.com",
+      "mobile": "4545676710",
+      "password": "subhadeep@12345"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
